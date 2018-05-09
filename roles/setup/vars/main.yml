@@ -1,0 +1,46 @@
+---
+# list of applications to install
+general:
+  local_home: "{{ lookup('env','HOME') }}"
+
+# homebrew applications
+applications:
+  - git
+  - curl
+  - wget
+  - vim
+  - postgresql
+  - mysql
+  - heroku/brew/heroku
+
+# homebrew cask applications
+cask_applications:
+  - 1password
+  - adobe-acrobat-reader
+  - android-file-transfer
+  - atom
+  - brave
+  - caffeine
+  - deezer
+  - docker
+  - docker-toolbox
+  - dropbox
+  - evernote
+  - harvest
+  - firefox
+  - gimp
+  - google-chrome
+  - musescore
+  - openoffice
+  - phoneclean
+  - postman
+  - psequel
+  - sequel-pro
+  - slack
+  - screaming-frog-seo-spider
+  - skype
+  - spotify
+  - sublime
+  - telegram
+  - vlc
+  - whatsapp
