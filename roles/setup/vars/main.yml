@@ -22,8 +22,6 @@ cask_applications:
   - brave
   - caffeine
   - deezer
-  - docker
-  - docker-toolbox
   - dropbox
   - evernote
   - harvest
@@ -40,7 +38,7 @@ cask_applications:
   - screaming-frog-seo-spider
   - skype
   - spotify
-  - sublime
+  - sublime-text
   - telegram
   - vlc
   - whatsapp
